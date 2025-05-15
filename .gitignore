@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+.env
+logs/
+npm-debug.log*
+
+# Editor & OS
+.DS_Store
+*.swp
+
+# PM2 logs
+pids/
+*.pid
+*.seed
+
+# Optional if using uploads or build
+uploads/
+dist/
+build/
